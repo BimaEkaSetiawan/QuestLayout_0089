@@ -58,7 +58,7 @@ fun AktivitasPertama(modifier: Modifier){
                 Image(
                     painter = gambar,
                     contentDescription = null,
-                    modifier = Modifier.size(100.dp).padding(4.dp)
+                    modifier = Modifier.size(100.dp).padding(5.dp)
                 )
                 Spacer(modifier = Modifier.width(30.dp))
                 Column() {
