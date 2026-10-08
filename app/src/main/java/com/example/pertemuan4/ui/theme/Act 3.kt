@@ -86,6 +86,7 @@ fun AktivitasPertama(modifier: Modifier){
         ){
             Text(
                 stringResource(R.string.copy),
+                modifier = Modifier
 
 
             )
