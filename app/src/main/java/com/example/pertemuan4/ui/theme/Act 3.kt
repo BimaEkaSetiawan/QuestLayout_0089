@@ -84,6 +84,7 @@ fun AktivitasPertama(modifier: Modifier){
             modifier = Modifier
                 .fillMaxSize()
         ){
+            Text(
 
         }
     }
